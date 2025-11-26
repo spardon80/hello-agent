@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "ask": [
+      "Read(!/Users/spardon/code/ai/hello-agent/**)",
+      "Edit(!/Users/spardon/code/ai/hello-agent/**)"
+    ],
+    "allow": [
+      "Read(/Users/spardon/code/ai/hello-agent/**)",
+      "Edit(/Users/spardon/code/ai/hello-agent/**)"
+    ]
+  },
+  "memoryImport": {},
+  "monitoring": {}
+}
